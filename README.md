@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ilee@northwestern.edu**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/inhyeoklee/](https://www.linkedin.com/in/inhyeoklee/)
+- 📝 Read my recent [co-authored paper](https://pubmed.ncbi.nlm.nih.gov/37471165/)
 
 - ⚡ Fun fact **I'm learning French on Duolingo!**
 
