@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inhyeoklee&label=Profile%20views&color=0e75b6&style=flat" alt="inhyeoklee" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hyeokomics" target="blank"><img src="https://img.shields.io/twitter/follow/hyeokomics?logo=twitter&style=for-the-badge" alt="hyeokomics" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hyeokomics" target="blank"><img src="https://img.shields.io/twitter/follow/hyeokomics?logo=twitter" alt="hyeokomics" /></a> </p>
 
 - 🌱 I’m currently learning **Transformer Applications in Bioinformatics**
 
