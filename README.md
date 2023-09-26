@@ -2,13 +2,11 @@
 <h3 align="center">An Inquisitive Bioinformatics Researcher at Northwestern Feinberg School of Medicine</h3>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/3eee0b_cc71f7fc3ba144479ca73110b0989f95~mv2.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=inhyeoklee&label=Profile%20views&color=0e75b6&style=flat" alt="inhyeoklee" /> </p>
+<p align="left"> <a href="https://twitter.com/hyeokomics" target="blank"><img src="https://img.shields.io/twitter/follow/hyeokomics?logo=twitter" alt="hyeokomics" /></a> <img src="https://komarev.com/ghpvc/?username=inhyeoklee&label=Profile%20views&color=0e75b6&style=flat" alt="inhyeoklee" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hyeokomics" target="blank"><img src="https://img.shields.io/twitter/follow/hyeokomics?logo=twitter" alt="hyeokomics" /></a> </p>
+- 🌱 I’m currently learning **transformer applications in bioinformatics & multiomic data integration**
 
-- 🌱 I’m currently learning **Transformer Applications in Bioinformatics**
-
-- 💬 Ask me about **Bioinformatic Pipelines & Reproducible Coding**
+- 💬 Ask me about **bioinformatic pipelines & reproducible coding**
 
 - 📫 How to reach me **ilee@northwestern.edu**
 
