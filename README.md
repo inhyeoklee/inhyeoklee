@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **bioinformatic pipelines & reproducible coding**
 
-- 📫 How to reach me **ilee@northwestern.edu**
+- 📫 I'm always an email away **ilee@northwestern.edu**
 
 - 📝 Check out my recent [co-authored paper](https://pubmed.ncbi.nlm.nih.gov/37471165/)
 
