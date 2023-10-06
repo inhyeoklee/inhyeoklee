@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently interested in **transformer applications in bioinformatics & multiomic data integration**
 
-- 💬 Ask me about **bioinformatic pipelines & reproducible coding**
+- 💬 Ask me about **bioinformatic pipelines and reproducible coding**
 
 - 📫 I'm always an email away **ilee@northwestern.edu**
 
-- 📝 Check out my recent [co-authored paper](https://pubmed.ncbi.nlm.nih.gov/37471165/)
+- 📝 Check out my recent [co-authored paper on JCI Insight](https://pubmed.ncbi.nlm.nih.gov/37471165/)
 
 - ⚡ Fun fact **I'm learning French on Duolingo!**
 
