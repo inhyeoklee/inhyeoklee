@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/hyeokomics" target="blank"><img src="https://img.shields.io/twitter/follow/hyeokomics?logo=twitter" alt="hyeokomics" /></a> <img src="https://komarev.com/ghpvc/?username=inhyeoklee&label=Profile%20views&color=0e75b6&style=flat" alt="inhyeoklee" /> </p>
 
-- 🌱 I’m currently interested in **transformer applications in bioinformatics & multiomic data integration**
+- 🌱 I’m currently interested in **transformer applications in inferring multiomic regulatory networks & topological data integration**
 
 - 💬 Ask me about **bioinformatic pipelines and reproducible coding**
 
