@@ -2,7 +2,7 @@
 <h3 align="center">An Inquisitive Bioinformatics Researcher at Northwestern Feinberg School of Medicine</h3>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/3eee0b_cc71f7fc3ba144479ca73110b0989f95~mv2.gif">
 
-- 🌱 I’m currently interested in **transformer applications in inferring multiomic regulatory networks & topological data integration**
+- 🌱 I’m currently learning **transformer applications in inferring multiomic regulatory networks & topological data integration**
 
 - 💬 Ask me about **bioinformatic pipelines and reproducible coding**
 
