@@ -10,7 +10,7 @@
 
 📝 Check out my recent [co-authored paper on JCI Insight](https://pubmed.ncbi.nlm.nih.gov/37471165/)
 
-⚡ Fun fact: **I'm learning French on Duolingo!**
+⚡ Fun fact: **I live with the most talkative tortie in Chicago!**
 
 ### Connect with me:
 [![Twitter: hyeokomics](https://img.shields.io/twitter/follow/hyeokomics?style=social)](https://twitter.com/hyeokomics)
