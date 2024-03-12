@@ -6,7 +6,7 @@
 
 💬 Ask me about **bioinformatic pipelines and reproducible coding**
 
-📫 I'm always an email away **ilee@northwestern.edu**
+📫 I'm always an email away **ihlee@uchicago.edu**
 
 📝 Check out my recent [co-authored paper on JCI Insight](https://pubmed.ncbi.nlm.nih.gov/37471165/)
 
