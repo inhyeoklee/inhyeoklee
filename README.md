@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Inhyeok Lee. You can call me Daniel! 👨🏻‍💻👋</h1>
-<h3 align="center">Studying </h3>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/3eee0b_cc71f7fc3ba144479ca73110b0989f95~mv2.gif">
 
 🌱 I’m a Human Genetics Ph.D. student at The University of Chicago.
