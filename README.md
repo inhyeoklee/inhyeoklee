@@ -4,9 +4,9 @@
 <!-- About Me -->
 ### 👨🏻‍💻 About Me
 
-💬 I'm a 1st-year Systems Biology Ph.D. student at The University of Chicago.
+💬 I'm a 2nd-year Systems Biology Ph.D. student at the University of Chicago.
 
-🌱 I'm broadly interested in interrogating multi-omic human epigenome interactions with the power of Bayesian machine learning algorithms and stochastic modeling.
+🌱 I'm broadly interested in causal modeling, active representation learning, and mechanistic interpretability to explicate causal pathways embedded in human clinical data and biomedical interventions.
 
 📫 You can always reach me at: [ihlee@uchicago.edu](mailto:ihlee@uchicago.edu)
 
