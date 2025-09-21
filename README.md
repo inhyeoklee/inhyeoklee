@@ -4,9 +4,9 @@
 <!-- About Me -->
 ### 👨🏻‍💻 About Me
 
-💬 I'm a 2nd-year Systems Biology Ph.D. student at the University of Chicago.
+💬 I’m a 2nd-year PhD student in the Beaulieu-Jones Lab at the UChicago Center for Computational Medicine & Clinical AI!
 
-🌱 I'm broadly interested in causal modeling, active representation learning, and mechanistic interpretability to explicate causal pathways embedded in human clinical data and biomedical interventions.
+🌱 I investigate interpretable features and biomarkers in clinical AI foundation models via mechanistic interpretability methods.
 
 📫 You can always reach me at: [ihlee@uchicago.edu](mailto:ihlee@uchicago.edu)
 
