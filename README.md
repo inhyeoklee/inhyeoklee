@@ -1,18 +1,16 @@
 <div align="center">
 
-  # Welcome to My GitHub! 👋
-
-  ### 👨🏻‍💻 About Me
-  
   I’m a 2nd-year PhD student in the **Beaulieu-Jones Lab** at the **UChicago Center for Computational Medicine & Clinical AI**!
   
   🌱 I investigate interpretable features and biomarkers in clinical AI foundation models via mechanistic interpretability methods.
 
   ---
   
-  <a href="https://github.com/inhyeoklee/github-profile-3d-contrib">
-    <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inhyeoklee/inhyeoklee/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inhyeoklee/inhyeoklee/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/inhyeoklee/inhyeoklee/output/github-contribution-grid-snake.svg">
+  </picture>
 
   ---
 
@@ -40,7 +38,4 @@
     <img src="https://img.shields.io/badge/Twitter-%40hyeokomics-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://linkedin.com/in/inhyeoklee">
-    <img src="https://img.shields.io/badge/LinkedIn-InHyeok%20Lee-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-</div>
+    <img src="https://img.shields.io/badge/LinkedIn-InHyeok%20Lee-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn
