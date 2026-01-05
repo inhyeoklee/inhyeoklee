@@ -1,39 +1,46 @@
-<!-- Profile Header -->
-<h1 align="center">Welcome to My GitHub! 👋</h1>
+<div align="center">
 
-<!-- About Me -->
-### 👨🏻‍💻 About Me
+  # Welcome to My GitHub! 👋
 
-💬 I’m a 2nd-year PhD student in the Beaulieu-Jones Lab at the UChicago Center for Computational Medicine & Clinical AI!
+  ### 👨🏻‍💻 About Me
+  
+  I’m a 2nd-year PhD student in the **Beaulieu-Jones Lab** at the **UChicago Center for Computational Medicine & Clinical AI**!
+  
+  🌱 I investigate interpretable features and biomarkers in clinical AI foundation models via mechanistic interpretability methods.
 
-🌱 I investigate interpretable features and biomarkers in clinical AI foundation models via mechanistic interpretability methods.
-
-📫 You can always reach me at: [ihlee@uchicago.edu](mailto:ihlee@uchicago.edu)
-
-<!-- Connect with Me -->
-### 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://twitter.com/hyeokomics" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/hyeokomics?style=social&logo=twitter" alt="Twitter: hyeokomics"/>
+  ---
+  
+  <a href="https://github.com/inhyeoklee/github-profile-3d-contrib">
+    <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
   </a>
-  <a href="https://linkedin.com/in/inhyeoklee" target="_blank">
-    <img src="https://img.shields.io/badge/-inhyeoklee-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn: inhyeoklee"/>
+
+  ---
+
+  ### 🛠️ Languages and Tools
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-42b983?style=for-the-badge&logoColor=white" />
+
+  <br />
+
+  ### 🔗 Connect with Me
+  
+  <a href="mailto:ihlee@uchicago.edu">
+    <img src="https://img.shields.io/badge/Email-ihlee%40uchicago.edu-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+  <a href="https://twitter.com/hyeokomics">
+    <img src="https://img.shields.io/badge/Twitter-%40hyeokomics-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/inhyeoklee">
+    <img src="https://img.shields.io/badge/LinkedIn-InHyeok%20Lee-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-<!-- Languages and Tools -->
-### 🛠️ Languages and Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
-  <img src="https://img.shields.io/badge/Seaborn-77d8d8?style=flat-square&logo=seaborn&logoColor=white" alt="Seaborn"/>
-</p>
+</div>
