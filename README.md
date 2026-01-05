@@ -1,6 +1,7 @@
 <div align="center">
 
   I’m a 2nd-year PhD student in the **Beaulieu-Jones Lab** at the **UChicago Center for Computational Medicine & Clinical AI**!
+  
   I investigate interpretable features and biomarkers in clinical AI foundation models via mechanistic interpretability methods.
 
   ---
